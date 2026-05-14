@@ -1,4 +1,4 @@
-# 🐐 Goat Conut AI
+# 🐐 Goat Count AI
 
 Aplicación web para **contar cabras automáticamente** usando YOLOv8 y Python Flask.
 Desplegada en Render.com — funciona en cualquier dispositivo móvil con cámara.
@@ -24,9 +24,9 @@ Desplegada en Render.com — funciona en cualquier dispositivo móvil con cámar
 ```bash
 git init
 git add .
-git commit -m "🐐 Goat Conut AI inicial"
+git commit -m "🐐 Goat Count AI inicial"
 git branch -M main
-git remote add origin https://github.com/TU_USUARIO/goat-conut-ai.git
+git remote add origin https://github.com/TU_USUARIO/goat-count-ai.git
 git push -u origin main
 ```
 
@@ -34,7 +34,7 @@ git push -u origin main
 
 1. Ve a [render.com](https://render.com) → **Sign up** con GitHub
 2. Dashboard → **New +** → **Web Service**
-3. Conecta tu repositorio `goat-conut-ai`
+3. Conecta tu repositorio `goat-count-ai`
 4. Render detecta automáticamente el `render.yaml`
 
 ### 3. Configurar variables de entorno en Render
@@ -52,7 +52,7 @@ En el dashboard de tu servicio → **Environment**:
 ### 4. Deploy
 
 Render construye y despliega automáticamente.
-La URL de tu app será: `https://goat-conut-ai.onrender.com`
+La URL de tu app será: `https://goat-count-ai.onrender.com`
 
 ---
 
